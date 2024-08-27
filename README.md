@@ -1,3 +1,6 @@
+Reduxチュートリアル(参考：https://github.com/Shin-sibainu/redux-tutorial)
+![image](https://github.com/user-attachments/assets/4f344679-94be-4dac-8d92-f900d8fa4dfe)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
